@@ -72,7 +72,6 @@ public  class Liste {
                     if (tmpx1.estDans(fmorte) == false) {
                         //on verifie si elle doit vivre ou non et si oui on l'a met dans fvivre
                         //on a verifier si une cellule morte doit vivre
-
                     }
                 }
             }
